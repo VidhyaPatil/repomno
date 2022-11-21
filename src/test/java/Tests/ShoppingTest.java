@@ -28,7 +28,7 @@ public class ShoppingTest extends BaseClass {
 		login.loginButton().click();
 
 		logger.info("Browser open");
-		Assert.assertTrue(false);
+		//Assert.assertTrue(false);
 	}
 
 	@AfterMethod
